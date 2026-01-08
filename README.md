@@ -127,4 +127,5 @@ They are **not** intended as definitive performance measurements.
 
 ## License
 
-MIT License
+
+MIT License[LICENSE]
