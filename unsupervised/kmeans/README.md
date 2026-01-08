@@ -103,7 +103,7 @@ initialization and caching effects.
 
 ```
 
-## KMeans Benchmark Results (safe workload)
+KMeans Benchmark Results (safe workload)
 
 PureKMeans      | min: 0.0891s | mean: 0.1034s | std: 0.0128s
 OptimizedKMeans | min: 0.0016s | mean: 0.0023s | std: 0.0012s
@@ -145,4 +145,5 @@ This module may be extended in the future with:
 * K-Means++ initialization analysis
 * Convergence diagnostics
 * Distance metric variants
+
 * Larger-scale benchmarks
